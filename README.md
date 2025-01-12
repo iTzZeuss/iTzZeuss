@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iTzZeuss
 - 👀 I’m interested in programming and learning everything about digital shi
 - 🌱 I’m currently learning html/javascript/css
-- 😄 Pronouns: fuck/you
 - ⚡ Fun fact: none
 
 <!---
